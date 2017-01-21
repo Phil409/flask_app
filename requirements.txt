@@ -127,7 +127,7 @@ QtPy==1.1.2
 requests==2.11.1
 responses==0.5.1
 rope-py3k==0.9.4.post1
-ruamel-yaml===-VERSION
+#ruamel-yaml===-VERSION
 scikit-image==0.12.3
 scikit-learn==0.17.1
 scipy==0.18.1
